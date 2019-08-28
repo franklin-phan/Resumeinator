@@ -1,0 +1,11 @@
+h1 strong em span{
+    font-size: 50px;
+}
+ds
+ul {
+  text-align: center;
+  list-style: inside;
+}
+
+ul { display:table; margin:0 auto;}
+ol { display:table; margin:0 auto;}
